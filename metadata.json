@@ -1,0 +1,5 @@
+{
+  "name": "PropScraper & Analyze",
+  "description": "An automated tool to extract high-quality images from property listing URLs and summarize listing details using Gemini AI.",
+  "requestFramePermissions": []
+}
